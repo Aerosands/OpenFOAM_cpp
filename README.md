@@ -1,2 +1,2 @@
-# OpenFOAM_cpp
+# openfoam_cpp
 cpp learning for OpenFOAM
